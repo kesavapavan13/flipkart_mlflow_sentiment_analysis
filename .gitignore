@@ -1,0 +1,7 @@
+myenv/
+mlruns/
+mlflow.db
+*.pkl
+*.png
+__pycache__/
+.ipynb_checkpoints/
