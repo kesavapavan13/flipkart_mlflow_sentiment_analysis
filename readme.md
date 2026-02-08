@@ -140,13 +140,13 @@ This project helped me understand real-world **MLOps practices**, including:
 
 ## 📸 Screenshots
 ### 🔬 MLflow 
-![MLflow Experiment](image\workflow.png)
+![MLflow Experiment](workflow.png)
 
 ### ⚙️ Prefect Dashboard
-![Prefect Dashboard](image\dashboard.png)
+![Prefect Dashboard](dashboard.png)
 
 ### 🖥️ Streamlit App
-![Streamlit App](image\streamlit.png)
+![Streamlit App](streamlit.png)
 
 ---
 
